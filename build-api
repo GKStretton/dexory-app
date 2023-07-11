@@ -1,0 +1,14 @@
+#!/bin/bash
+# Run this script to generate the server and client code for the 
+
+set -e
+
+# Generate backend server interfaces and types
+go install github.com/deepmap/oapi-codegen/cmd/oapi-codegen@latest
+oapi-codegen -generate server -package api openapi.yml > backend/api/api.gen.go
+
+# Generate frontend client library for api
+cd frontend/
+# ensure you've done `npm install` first. Note the original install command:
+# npm i --save-dev @openapitools/openapi-generator-cli
+npx openapi-generator-cli generate -i ../openapi.yml -g typescript -o ./src/api/
