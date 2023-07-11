@@ -11,4 +11,4 @@ oapi-codegen -generate server -package api openapi.yml > backend/api/api.gen.go
 cd frontend/
 # ensure you've done `npm install` first. Note the original install command:
 # npm i --save-dev @openapitools/openapi-generator-cli
-npx openapi-generator-cli generate -i ../openapi.yml -g typescript -o ./src/api/
+npx openapi-generator-cli generate -i ../openapi.yml -g typescript-fetch -o ./src/api/

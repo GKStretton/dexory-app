@@ -1,12 +1,24 @@
-import React from "react";
+import React, { useEffect } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Dashboard from "./layout/Dashboard";
+import Dashboard from "./components/Dashboard";
+import { useReward } from "react-rewards";
 
 function App() {
+  const { reward, isAnimating } = useReward("balloonSrc", "balloons", {
+    startVelocity: 5,
+    lifetime: 800,
+  });
+
+  // balloons on mount
+  useEffect(() => {
+    reward();
+  }, []);
+
   return (
     <div className="App">
       <Dashboard />
+      <div id="balloonSrc"></div>
     </div>
   );
 }
