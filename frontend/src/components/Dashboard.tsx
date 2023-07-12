@@ -22,7 +22,7 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import { useReward } from "react-rewards";
 import { ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 import { useState } from "react";
-import Status from "./Status";
+import Overview from "./Overview";
 import UserReports from "./UserReports";
 import MachineReports from "./MachineReports";
 
@@ -74,7 +74,6 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== "open" 
   },
 }));
 
-// TODO remove, this demo shouldn't need to reset the theme.
 const defaultTheme = createTheme();
 
 export default function Dashboard() {
@@ -92,11 +91,11 @@ export default function Dashboard() {
     lifetime: 400,
   });
 
-  const [page, setPage] = useState("status");
+  const [page, setPage] = useState("overview");
 
   const renderPage = () => {
-    if (page == "status") {
-      return <Status />;
+    if (page == "overview") {
+      return <Overview />;
     } else if (page == "user") {
       return <UserReports />;
     } else if (page == "machine") {
@@ -157,18 +156,19 @@ export default function Dashboard() {
           <List component="nav">
             <ListItemButton
               onClick={() => {
-                setPage("status");
+                setPage("overview");
               }}
             >
               <ListItemIcon>
                 <DashboardIcon />
               </ListItemIcon>
-              <ListItemText primary="Status" />
+              <ListItemText primary="Overview" />
             </ListItemButton>
             <ListItemButton
               onClick={() => {
                 setPage("user");
               }}
+              disabled={true}
             >
               <ListItemIcon>
                 <BarChartIcon />
@@ -179,6 +179,7 @@ export default function Dashboard() {
               onClick={() => {
                 setPage("machine");
               }}
+              disabled={true}
             >
               <ListItemIcon>
                 <LayersIcon />

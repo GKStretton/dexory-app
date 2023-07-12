@@ -2,7 +2,7 @@
 /* eslint-disable */
 /**
  * Dexory API
- * A basic API
+ * Dexory platform api for warehouse tracking
  *
  * The version of the OpenAPI document: 0.0.1
  * 

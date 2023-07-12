@@ -5,7 +5,7 @@ set -e
 
 # Generate backend server interfaces and types
 go install github.com/deepmap/oapi-codegen/cmd/oapi-codegen@latest
-oapi-codegen -generate server -package api openapi.yml > backend/api/api.gen.go
+oapi-codegen -package api openapi.yml > backend/api/api.gen.go
 
 # Generate frontend client library for api
 cd frontend/

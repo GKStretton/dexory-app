@@ -1,6 +1,6 @@
 import { Grid, Paper } from "@mui/material";
 
-export default function Status() {
+export default function Overview() {
   return (
     <>
       <Grid item xs={12} md={8} lg={9}>

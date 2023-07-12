@@ -1,5 +1,8 @@
-.openapi-generator-ignore
 apis/DefaultApi.ts
 apis/index.ts
 index.ts
+models/ErrorMessage.ts
+models/LocationComparison.ts
+models/LocationScan.ts
+models/index.ts
 runtime.ts

@@ -2,7 +2,7 @@
 /* eslint-disable */
 /**
  * Dexory API
- * A basic API
+ * Dexory platform api for warehouse tracking
  *
  * The version of the OpenAPI document: 0.0.1
  * 
@@ -14,6 +14,28 @@
 
 
 import * as runtime from '../runtime';
+import type {
+  ErrorMessage,
+  LocationComparison,
+  LocationScan,
+} from '../models';
+import {
+    ErrorMessageFromJSON,
+    ErrorMessageToJSON,
+    LocationComparisonFromJSON,
+    LocationComparisonToJSON,
+    LocationScanFromJSON,
+    LocationScanToJSON,
+} from '../models';
+
+export interface GenerateComparisonPostRequest {
+    machineReportName: string;
+    body: string;
+}
+
+export interface MachineReportsPostRequest {
+    locationScan: Array<LocationScan>;
+}
 
 /**
  * 
@@ -21,35 +43,102 @@ import * as runtime from '../runtime';
 export class DefaultApi extends runtime.BaseAPI {
 
     /**
-     * test endpoint
-     * Returns a number
+     * Generate comparison from the given machine report name and this user report
      */
-    async testGetRaw(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<number>> {
+    async generateComparisonPostRaw(requestParameters: GenerateComparisonPostRequest, initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<Array<LocationComparison>>> {
+        if (requestParameters.machineReportName === null || requestParameters.machineReportName === undefined) {
+            throw new runtime.RequiredError('machineReportName','Required parameter requestParameters.machineReportName was null or undefined when calling generateComparisonPost.');
+        }
+
+        if (requestParameters.body === null || requestParameters.body === undefined) {
+            throw new runtime.RequiredError('body','Required parameter requestParameters.body was null or undefined when calling generateComparisonPost.');
+        }
+
+        const queryParameters: any = {};
+
+        if (requestParameters.machineReportName !== undefined) {
+            queryParameters['machine-report-name'] = requestParameters.machineReportName;
+        }
+
+        const headerParameters: runtime.HTTPHeaders = {};
+
+        headerParameters['Content-Type'] = 'text/csv';
+
+        const response = await this.request({
+            path: `/generate-comparison`,
+            method: 'POST',
+            headers: headerParameters,
+            query: queryParameters,
+            body: requestParameters.body as any,
+        }, initOverrides);
+
+        return new runtime.JSONApiResponse(response, (jsonValue) => jsonValue.map(LocationComparisonFromJSON));
+    }
+
+    /**
+     * Generate comparison from the given machine report name and this user report
+     */
+    async generateComparisonPost(requestParameters: GenerateComparisonPostRequest, initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<Array<LocationComparison>> {
+        const response = await this.generateComparisonPostRaw(requestParameters, initOverrides);
+        return await response.value();
+    }
+
+    /**
+     * Get the list of machine reports
+     */
+    async machineReportsGetRaw(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<Array<Array<LocationScan>>>> {
         const queryParameters: any = {};
 
         const headerParameters: runtime.HTTPHeaders = {};
 
         const response = await this.request({
-            path: `/test`,
+            path: `/machine-reports`,
             method: 'GET',
             headers: headerParameters,
             query: queryParameters,
         }, initOverrides);
 
-        if (this.isJsonMime(response.headers.get('content-type'))) {
-            return new runtime.JSONApiResponse<number>(response);
-        } else {
-            return new runtime.TextApiResponse(response) as any;
-        }
+        return new runtime.JSONApiResponse<any>(response);
     }
 
     /**
-     * test endpoint
-     * Returns a number
+     * Get the list of machine reports
      */
-    async testGet(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<number> {
-        const response = await this.testGetRaw(initOverrides);
+    async machineReportsGet(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<Array<Array<LocationScan>>> {
+        const response = await this.machineReportsGetRaw(initOverrides);
         return await response.value();
+    }
+
+    /**
+     * Uploads a new machine report
+     */
+    async machineReportsPostRaw(requestParameters: MachineReportsPostRequest, initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<void>> {
+        if (requestParameters.locationScan === null || requestParameters.locationScan === undefined) {
+            throw new runtime.RequiredError('locationScan','Required parameter requestParameters.locationScan was null or undefined when calling machineReportsPost.');
+        }
+
+        const queryParameters: any = {};
+
+        const headerParameters: runtime.HTTPHeaders = {};
+
+        headerParameters['Content-Type'] = 'application/json';
+
+        const response = await this.request({
+            path: `/machine-reports`,
+            method: 'POST',
+            headers: headerParameters,
+            query: queryParameters,
+            body: requestParameters.locationScan.map(LocationScanToJSON),
+        }, initOverrides);
+
+        return new runtime.VoidApiResponse(response);
+    }
+
+    /**
+     * Uploads a new machine report
+     */
+    async machineReportsPost(requestParameters: MachineReportsPostRequest, initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<void> {
+        await this.machineReportsPostRaw(requestParameters, initOverrides);
     }
 
 }
