@@ -21,18 +21,24 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
-// Defines values for ComparisonReportStatus.
+// Defines values for LocationComparisonStatus.
 const (
-	EmptyAsExpected                        ComparisonReportStatus = "Empty, as expected"
-	EmptyButItShouldHaveBeenOccupied       ComparisonReportStatus = "Empty, but it should have been occupied"
-	OccupiedButNoBarcodeCouldBeIdentified  ComparisonReportStatus = "Occupied, but no barcode could be identified"
-	OccupiedByAnItemButShouldHaveBeenEmpty ComparisonReportStatus = "Occupied by an item, but should have been empty"
-	OccupiedByTheExpectedItems             ComparisonReportStatus = "Occupied by the expected items"
-	OccupiedByTheWrongItems                ComparisonReportStatus = "Occupied by the wrong items"
+	EmptyAsExpected                        LocationComparisonStatus = "Empty, as expected"
+	EmptyButItShouldHaveBeenOccupied       LocationComparisonStatus = "Empty, but it should have been occupied"
+	NotScanned                             LocationComparisonStatus = "Not scanned"
+	OccupiedButNoBarcodeCouldBeIdentified  LocationComparisonStatus = "Occupied, but no barcode could be identified"
+	OccupiedByAnItemButShouldHaveBeenEmpty LocationComparisonStatus = "Occupied by an item, but should have been empty"
+	OccupiedByTheExpectedItems             LocationComparisonStatus = "Occupied by the expected items"
+	OccupiedByTheWrongItems                LocationComparisonStatus = "Occupied by the wrong items"
 )
 
-// ComparisonReport A report comparing a machine report to a user report
-type ComparisonReport = []struct {
+// ErrorMessage defines model for ErrorMessage.
+type ErrorMessage struct {
+	Message string `json:"message"`
+}
+
+// LocationComparison defines model for LocationComparison.
+type LocationComparison struct {
 	// DetectedBarcodes The barcodes that were actually found in this location
 	DetectedBarcodes []string `json:"detected_barcodes"`
 
@@ -49,16 +55,11 @@ type ComparisonReport = []struct {
 	Scanned bool `json:"scanned"`
 
 	// Status The status resulting from the comparison
-	Status ComparisonReportStatus `json:"status"`
+	Status LocationComparisonStatus `json:"status"`
 }
 
-// ComparisonReportStatus The status resulting from the comparison
-type ComparisonReportStatus string
-
-// ErrorMessage defines model for ErrorMessage.
-type ErrorMessage struct {
-	Message string `json:"message"`
-}
+// LocationComparisonStatus The status resulting from the comparison
+type LocationComparisonStatus string
 
 // LocationScan Information about a specific location scanned by a machine
 type LocationScan struct {
@@ -401,7 +402,7 @@ type ClientWithResponsesInterface interface {
 type PostGenerateComparisonResponse struct {
 	Body         []byte
 	HTTPResponse *http.Response
-	JSON200      *ComparisonReport
+	JSON200      *[]LocationComparison
 	JSON400      *ErrorMessage
 	JSON404      *ErrorMessage
 	JSON500      *ErrorMessage
@@ -519,7 +520,7 @@ func ParsePostGenerateComparisonResponse(rsp *http.Response) (*PostGenerateCompa
 
 	switch {
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
-		var dest ComparisonReport
+		var dest []LocationComparison
 		if err := json.Unmarshal(bodyBytes, &dest); err != nil {
 			return nil, err
 		}
@@ -708,24 +709,24 @@ func RegisterHandlersWithBaseURL(router EchoRouter, si ServerInterface, baseURL 
 // Base64 encoded, gzipped, json marshaled Swagger object
 var swaggerSpec = []string{
 
-	"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",
+	"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",
 }
 
 // GetSwagger returns the content of the embedded swagger specification file

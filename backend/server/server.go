@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 
 	"github.com/gkstretton/dexory-app/backend/api"
@@ -20,18 +21,28 @@ type Server struct {
 func (s *Server) PostGenerateComparison(ctx echo.Context, params api.PostGenerateComparisonParams) error {
 	fmt.Printf("Generating comparison for %s and provided csv...\n", params.MachineReportName)
 
-	defer ctx.Request().Body.Close()
-	b, err := io.ReadAll(ctx.Request().Body)
+	machineReport, err := s.store.GetMachineReport(params.MachineReportName)
 	if err != nil {
-		return echo.NewHTTPError(http.StatusBadRequest, err.Error())
+		return notFound("couldn't load report '%s': %v", params.MachineReportName, err)
 	}
 
-	fmt.Println(string(b))
-	// todo: csv.NewReader, build a map location->barcode
-	// todo: then, load the param report
-	// todo: then, build the comparison
+	data, err := io.ReadAll(ctx.Request().Body)
+	defer ctx.Request().Body.Close()
+	if err != nil {
+		return badRequest("failed to read csv body: %v", err)
+	}
 
-	return internalError("not implemented")
+	// some '"' were at start and end of body
+	csvString := strings.ReplaceAll(string(data), "\"", "")
+	// "\n" comes through literally
+	csvString = strings.ReplaceAll(csvString, `\n`, "\n")
+
+	comparison, err := GenerateComparison(machineReport, csvString)
+	if err != nil {
+		return internalError("failed to generate comparison: %v", err)
+	}
+
+	return ctx.JSON(200, comparison)
 }
 
 // Get the list of machine reports

@@ -62,6 +62,7 @@ export interface LocationComparison {
  * @export
  */
 export const LocationComparisonStatusEnum = {
+    NotScanned: 'Not scanned',
     EmptyAsExpected: 'Empty, as expected',
     EmptyButItShouldHaveBeenOccupied: 'Empty, but it should have been occupied',
     OccupiedByTheExpectedItems: 'Occupied by the expected items',

@@ -28,7 +28,7 @@ COPY --from=build /app/build /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Expose the port the app runs on
-EXPOSE 80
+EXPOSE 5000
 
 # Start Nginx foreground so it doesn't exit
 CMD ["nginx", "-g", "daemon off;"]

@@ -22,9 +22,7 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import { useReward } from "react-rewards";
 import { ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 import { useState } from "react";
-import Overview from "./Overview";
-import UserReports from "./UserReports";
-import MachineReports from "./MachineReports";
+import Comparison from "./Comparison";
 
 const drawerWidth: number = 240;
 
@@ -77,7 +75,7 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== "open" 
 const defaultTheme = createTheme();
 
 export default function Dashboard() {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
   const toggleDrawer = () => {
     setOpen(!open);
   };
@@ -90,20 +88,6 @@ export default function Dashboard() {
     elementCount: 8,
     lifetime: 400,
   });
-
-  const [page, setPage] = useState("overview");
-
-  const renderPage = () => {
-    if (page == "overview") {
-      return <Overview />;
-    } else if (page == "user") {
-      return <UserReports />;
-    } else if (page == "machine") {
-      return <MachineReports />;
-    } else {
-      return <></>;
-    }
-  };
 
   return (
     <ThemeProvider theme={defaultTheme}>
@@ -154,33 +138,19 @@ export default function Dashboard() {
           </Toolbar>
           <Divider />
           <List component="nav">
-            <ListItemButton
-              onClick={() => {
-                setPage("overview");
-              }}
-            >
+            <ListItemButton>
               <ListItemIcon>
                 <DashboardIcon />
               </ListItemIcon>
-              <ListItemText primary="Overview" />
+              <ListItemText primary="Comparison" />
             </ListItemButton>
-            <ListItemButton
-              onClick={() => {
-                setPage("user");
-              }}
-              disabled={true}
-            >
+            <ListItemButton disabled={true}>
               <ListItemIcon>
                 <BarChartIcon />
               </ListItemIcon>
               <ListItemText primary="User Reports" />
             </ListItemButton>
-            <ListItemButton
-              onClick={() => {
-                setPage("machine");
-              }}
-              disabled={true}
-            >
+            <ListItemButton disabled={true}>
               <ListItemIcon>
                 <LayersIcon />
               </ListItemIcon>
@@ -212,9 +182,9 @@ export default function Dashboard() {
           }}
         >
           <Toolbar />
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+          <Container sx={{ mt: 4, mb: 4 }}>
             <Grid container spacing={3}>
-              {renderPage()}
+              <Comparison />
             </Grid>
           </Container>
         </Box>

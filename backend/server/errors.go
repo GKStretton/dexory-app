@@ -7,22 +7,24 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
-func internalError(msg string, args ...interface{}) error {
+func apiError(code int, msg string, args ...interface{}) error {
 	err := fmt.Sprintf(msg, args...)
 	fmt.Println(err)
 
 	return echo.NewHTTPError(
-		http.StatusInternalServerError,
+		code,
 		err,
 	)
 }
 
-func badRequest(msg string, args ...interface{}) error {
-	err := fmt.Sprintf(msg, args...)
-	fmt.Println(err)
+func notFound(msg string, args ...interface{}) error {
+	return apiError(http.StatusNotFound, msg, args...)
+}
 
-	return echo.NewHTTPError(
-		http.StatusBadRequest,
-		err,
-	)
+func internalError(msg string, args ...interface{}) error {
+	return apiError(http.StatusInternalServerError, msg, args...)
+}
+
+func badRequest(msg string, args ...interface{}) error {
+	return apiError(http.StatusBadRequest, msg, args...)
 }

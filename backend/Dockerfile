@@ -4,7 +4,7 @@ FROM golang:1.20 AS builder
 WORKDIR /src
 
 # doesn't fail if go.sum doesn't exist
-COPY ./go.mod ./go.sum* .
+COPY ./go.mod ./go.sum* ./
 
 RUN go mod download
 
