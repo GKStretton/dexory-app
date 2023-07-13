@@ -8,8 +8,21 @@ import (
 )
 
 func internalError(msg string, args ...interface{}) error {
+	err := fmt.Sprintf(msg, args...)
+	fmt.Println(err)
+
 	return echo.NewHTTPError(
 		http.StatusInternalServerError,
-		fmt.Sprintf(msg, args...),
+		err,
+	)
+}
+
+func badRequest(msg string, args ...interface{}) error {
+	err := fmt.Sprintf(msg, args...)
+	fmt.Println(err)
+
+	return echo.NewHTTPError(
+		http.StatusBadRequest,
+		err,
 	)
 }

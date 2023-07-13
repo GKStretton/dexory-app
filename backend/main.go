@@ -14,6 +14,7 @@ var (
 )
 
 func main() {
+	flag.Parse()
 	fmt.Println("Launching backend")
 	// This implements the api interface
 

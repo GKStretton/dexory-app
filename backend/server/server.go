@@ -4,12 +4,15 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"time"
 
 	"github.com/gkstretton/dexory-app/backend/api"
+	"github.com/gkstretton/dexory-app/backend/storage"
 	"github.com/labstack/echo/v4"
 )
 
 type Server struct {
+	store storage.Storage
 }
 
 // Generate comparison from the given machine report name and this user report
@@ -28,31 +31,43 @@ func (s *Server) PostGenerateComparison(ctx echo.Context, params api.PostGenerat
 	// todo: then, load the param report
 	// todo: then, build the comparison
 
-	return echo.NewHTTPError(http.StatusBadRequest, "not implemented")
+	return internalError("not implemented")
 }
 
 // Get the list of machine reports
 // (GET /machine-reports)
 func (s *Server) GetMachineReports(ctx echo.Context) error {
-	// todo: get from storage, return
-	return internalError("not implemented")
+	reports, err := s.store.ListMachineReports()
+	if err != nil {
+		return internalError("failed to get reports: %v", err)
+	}
+
+	fmt.Println("Returning reports list")
+	return ctx.JSON(http.StatusOK, reports)
 }
 
 // Uploads a new machine report
 // (POST /machine-reports)
 func (s *Server) PostMachineReports(ctx echo.Context) error {
-	defer ctx.Request().Body.Close()
-	data, err := io.ReadAll(ctx.Request().Body)
+	var report []api.LocationScan
+	err := ctx.Bind(&report)
 	if err != nil {
-		return internalError("failed to read body: %v", err)
+		return badRequest("failed to bind body as MachineReport: %v", err)
 	}
 
-	fmt.Println(string(data))
-	// todo: call save to storage
+	// filesystem-safe name
+	name := time.Now().Format("2006-01-02_15-04-05")
+	err = s.store.SaveMachineReport(name, report)
+	if err != nil {
+		return internalError("failed to save report: %v", err)
+	}
 
-	return internalError("not implemented")
+	fmt.Println("Saved report")
+	return ctx.NoContent(http.StatusCreated)
 }
 
 func NewServer() *Server {
-	return &Server{}
+	return &Server{
+		store: storage.CreateStorage(),
+	}
 }

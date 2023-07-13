@@ -86,7 +86,7 @@ export class DefaultApi extends runtime.BaseAPI {
     /**
      * Get the list of machine reports
      */
-    async machineReportsGetRaw(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<Array<Array<LocationScan>>>> {
+    async machineReportsGetRaw(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<runtime.ApiResponse<Array<string>>> {
         const queryParameters: any = {};
 
         const headerParameters: runtime.HTTPHeaders = {};
@@ -104,7 +104,7 @@ export class DefaultApi extends runtime.BaseAPI {
     /**
      * Get the list of machine reports
      */
-    async machineReportsGet(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<Array<Array<LocationScan>>> {
+    async machineReportsGet(initOverrides?: RequestInit | runtime.InitOverrideFunction): Promise<Array<string>> {
         const response = await this.machineReportsGetRaw(initOverrides);
         return await response.value();
     }
