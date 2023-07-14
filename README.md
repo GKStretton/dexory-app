@@ -1,3 +1,14 @@
+## Instructions for running
+
+1. `docker-compose up --build` from the root dir.
+2. Navigate to [http://localhost:5000](http://localhost:5000)
+3. To add a machine report, send a POST to [localhost:8080/machine-reports](localhost:8080/machine-reports) with the JSON as the body of the request.
+
+To run for development:
+
+1. Backend: `cd backend && go run . -storagePath ../storage`
+2. Frontend: `cd frontend && npm install && npm start`
+
 ## Frontend
 
 Basic frontend layout taken from [here](https://github.com/mui/material-ui/tree/v5.14.0/docs/data/material/getting-started/templates/dashboard) for speed.
@@ -7,9 +18,21 @@ Basic frontend layout taken from [here](https://github.com/mui/material-ui/tree/
 
 ## Backend
 
-The backend is written in Go as this is what I am most familiar with and could set up fastest. I also considered using something like Supabase, which I'd like to use at some point in future, to save writing the CRUD, but didn't want to risk a rabbit hole given my limited time right now.
+The backend is written in Go with the Echo router framework. I opted for filestorage rather than a database to keep it simple, but made a storage interface to maintain OCP.
 
 - Go API server stubs are generated from the openapi spec with https://github.com/deepmap/oapi-codegen
+
+You can view the api with your own swagger renderer or at this link: [https://petstore.swagger.io/?url=https://raw.githubusercontent.com/GKStretton/dexory-app/main/openapi.yml](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/GKStretton/dexory-app/main/openapi.yml)
+
+## Deployment notes
+
+The app consists of two containers, with docker-compose coordinating. This makes it easy to deploy in future. Note, cors has been enabled for testing purposes so the frontend can talk to the backend on different port (different origin). For an actually deployment, both would be behind a reverse proxy so the frontend and api have the same origin.
+
+## Improvements
+
+- The frontend visualisation is currently not robust to missing shelves / positions, so the imagery may become misleading if there are missing elements
+- The frontend hangs for a short time when a report is generated, some optimisation could be done here
+- The frontend is not particularly responsive, if I had more time I would optimise for non-"1080p landscape".
 
 ## License
 

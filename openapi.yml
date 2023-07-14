@@ -6,8 +6,6 @@ info:
 servers:
   - url: http://localhost:8080
     description: Dev testing server
-  - url: http://localhost:6000
-    description: Production build server
 paths:
   /generate-comparison:
     post:
