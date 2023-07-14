@@ -12,6 +12,7 @@ import {
 import { Configuration, DefaultApi, ErrorMessage, LocationComparison } from "../api";
 import { useEffect, useState } from "react";
 import ComparisonReportVisualiser from "./ComparisonReportVisualiser";
+import { useReward } from "react-rewards";
 
 export default function Comparison() {
   const config = new Configuration({ basePath: "http://localhost:8080" });
@@ -21,6 +22,14 @@ export default function Comparison() {
   const [reports, setReports] = useState([""]);
   const [selectedReport, setSelectedReport] = useState("");
   const [comparisonReport, setComparisonReport] = useState<LocationComparison[] | null>(null);
+
+  const { reward, isAnimating } = useReward("confettiSrc", "confetti", {
+    angle: 150,
+    startVelocity: 50,
+    elementSize: 20,
+    elementCount: 30,
+    lifetime: 200,
+  });
 
   useEffect(() => {
     apiInstance.machineReportsGet().then(
@@ -71,6 +80,9 @@ export default function Comparison() {
       .then((value: LocationComparison[]) => {
         console.log("received comparison");
         console.log(value);
+        if (!comparisonReport) {
+          reward();
+        }
         setComparisonReport(value);
       })
       .catch((e) => {
@@ -84,7 +96,7 @@ export default function Comparison() {
 
   return (
     <>
-      <Grid item xs={9}>
+      <Grid item xs={9} p={2}>
         <Paper
           sx={{
             p: 2,
@@ -95,7 +107,7 @@ export default function Comparison() {
           <ComparisonReportVisualiser report={comparisonReport} />
         </Paper>
       </Grid>
-      <Grid item xs={3}>
+      <Grid item xs={3} p={2}>
         <Paper
           sx={{
             p: 2,
@@ -135,9 +147,11 @@ export default function Comparison() {
           <Typography m="1rem" variant="body1">
             {userCSV === "" ? "No user csv loaded" : "CSV loaded"}
           </Typography>
-          <Button variant="contained" disabled={userCSV === "" || selectedReport === ""} onClick={generateComparison}>
-            Generate Comparison
-          </Button>
+          <div id="confettiSrc">
+            <Button variant="contained" disabled={userCSV === "" || selectedReport === ""} onClick={generateComparison}>
+              Generate Comparison
+            </Button>
+          </div>
         </Paper>
       </Grid>
     </>

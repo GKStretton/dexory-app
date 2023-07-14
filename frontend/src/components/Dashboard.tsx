@@ -24,7 +24,7 @@ import { ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 import { useState } from "react";
 import Comparison from "./Comparison";
 
-const drawerWidth: number = 240;
+const drawerWidth: number = 220;
 
 interface AppBarProps extends MuiAppBarProps {
   open?: boolean;
@@ -182,11 +182,9 @@ export default function Dashboard() {
           }}
         >
           <Toolbar />
-          <Container sx={{ mt: 4, mb: 4 }}>
-            <Grid container spacing={3}>
-              <Comparison />
-            </Grid>
-          </Container>
+          <Grid container>
+            <Comparison />
+          </Grid>
         </Box>
       </Box>
     </ThemeProvider>

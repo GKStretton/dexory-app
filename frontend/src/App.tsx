@@ -6,6 +6,7 @@ import { useReward } from "react-rewards";
 
 function App() {
   const { reward, isAnimating } = useReward("balloonSrc", "balloons", {
+    elementCount: 4,
     startVelocity: 5,
     lifetime: 800,
   });
