@@ -9,6 +9,8 @@ To run for development:
 1. Backend: `cd backend && go run . -storagePath ../storage`
 2. Frontend: `cd frontend && npm install && npm start`
 
+And generate the client and server api libraries with `./build-api`
+
 ## Frontend
 
 Basic frontend layout taken from [here](https://github.com/mui/material-ui/tree/v5.14.0/docs/data/material/getting-started/templates/dashboard) for speed.
