@@ -15,6 +15,13 @@ To run for development:
 
 And generate the client and server api libraries with `./build-api`
 
+## Tech stack
+
+- Docker, docker-compose
+- OpenAPI + client & server generators
+- Go, Echo
+- React, Typescript, Material-ui
+
 ## Frontend
 
 Basic frontend layout taken from [here](https://github.com/mui/material-ui/tree/v5.14.0/docs/data/material/getting-started/templates/dashboard) for speed.
@@ -41,9 +48,16 @@ The app consists of two containers, with docker-compose coordinating. This makes
 
 ## Improvements
 
+- If I were to do this again, I would ask for clarification on how, and by who/what, the report will be used. The raw report format is hard to interpret by a human because it's flat, this is what I would suggest if it's to be ingested by humans:
+
+  1.  Get confirmation that the location codes map how I assumed `{rack}{position}{shelf}`.
+  2.  Incorporate location awareness into the backend report generator, moving the location organising code out of the frontend and into the backend. This would improve the frontend responsiveness.
+  3.  The generated json reports would then have location-based hierarchy, so they are easier to interpret by a human.
+  4.  The status summaries could be included in the json report too.
+
+- The frontend hangs for a short time when a report is generated due to the client-side transformation. Making the report be organised by location would eliminate this.
 - The frontend visualisation is currently not robust to missing shelves / positions, so the imagery may become misleading if there are missing elements
-- The frontend hangs for a short time when a report is generated, some optimisation could be done here
-- The frontend is not particularly responsive, if I had more time I would optimise for non-"1080p landscape".
+- The frontend is not particularly responsive, if I had more time I would optimise for smaller windows and mobile devices, for example by making the location visualisation scroll instead of wrap.
 
 ## License
 
