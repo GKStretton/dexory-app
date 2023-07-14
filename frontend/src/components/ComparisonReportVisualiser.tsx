@@ -62,7 +62,7 @@ export default function ComparisonReportVisualiser({ report }: VisualiserArgs) {
   const { warehouse, rackStatusCount, overallStatusCount } = ParseReport(report);
 
   // Ensure a rack is selected
-  if (selectedRack == "") {
+  if (selectedRack == "" || !(selectedRack in warehouse)) {
     const racks = Object.keys(warehouse);
     if (racks.length > 0) {
       setSelectedRack(racks[0]);

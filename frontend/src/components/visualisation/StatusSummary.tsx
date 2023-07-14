@@ -8,7 +8,7 @@ interface Props {
   rackCount: StatusCount;
 }
 
-export default function StatusSummary({ statusCount, rackCount }: Props) {
+export default function StatusSummary({ statusCount = {}, rackCount = {} }: Props) {
   return (
     <TableContainer component={Paper} sx={{ my: "1rem" }}>
       <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">

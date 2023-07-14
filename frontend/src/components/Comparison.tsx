@@ -60,8 +60,6 @@ export default function Comparison() {
 
         setUserCSV(csvData as string);
         console.log("loaded csv");
-        console.log(csvData);
-        console.log(csvData as string);
       } else {
         console.error("result was not a string: ", resultType);
       }
@@ -79,7 +77,6 @@ export default function Comparison() {
       })
       .then((value: LocationComparison[]) => {
         console.log("received comparison");
-        console.log(value);
         if (!comparisonReport) {
           reward();
         }

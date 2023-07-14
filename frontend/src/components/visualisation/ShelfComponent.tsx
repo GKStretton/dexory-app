@@ -6,7 +6,7 @@ interface ShelfProps {
   shelf: Record<number, LocationComparison>;
   shelfNumber: number;
 }
-export default function ShelfComponent({ shelf, shelfNumber }: ShelfProps) {
+export default function ShelfComponent({ shelf = {}, shelfNumber }: ShelfProps) {
   return (
     <>
       <Grid item container direction="row" justifyContent="left">

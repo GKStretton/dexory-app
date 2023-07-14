@@ -31,8 +31,8 @@ export default function LocationComponent({ location }: LocationProps) {
       <p>Name: {location.name}</p>
       <p>Scanned: {location.scanned ? "Yes" : "No"}</p>
       <p>Occupied: {location.occupied ? "Yes" : "No"}</p>
-      <p>Expected Barcodes: {location.expectedBarcodes.join(", ")}</p>
-      <p>Detected Barcodes: {location.detectedBarcodes.join(", ")}</p>
+      <p>Expected Barcodes: {location.expectedBarcodes?.join(", ") ?? ""}</p>
+      <p>Detected Barcodes: {location.detectedBarcodes?.join(", ") ?? ""}</p>
       <p>Status: {location.status}</p>
     </div>
   );
