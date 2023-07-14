@@ -1,3 +1,7 @@
+## Example output
+
+See `example_output/` in this repo for the text-based and visual comparison reports on the example data
+
 ## Instructions for running
 
 1. `docker-compose up --build` from the root dir.

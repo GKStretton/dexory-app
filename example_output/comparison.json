@@ -1,0 +1,8426 @@
+[
+  {
+    "name": "ZA001A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004338"
+    ],
+    "detectedBarcodes": [
+      "DX9850004338"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA001B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA001C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA001D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA001E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA001F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA002F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA003F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA004A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004348"
+    ],
+    "detectedBarcodes": [
+      "DX9850004348"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA004B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA004C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA004D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA004E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA004F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA005F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA006F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA007F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA008F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA009F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA010F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA011F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA012F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA013F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA014A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000498"
+    ],
+    "detectedBarcodes": [
+      "DX9850000498"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA014B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA014C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA014D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA014E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA014F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA015F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA016F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA017A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000160"
+    ],
+    "detectedBarcodes": [
+      "DX9850000160"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA017B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA017C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA017D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA017E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA017F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA018F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA019A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000123"
+    ],
+    "detectedBarcodes": [
+      "DX9850000123"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA019B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA019C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA019D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA019E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA019F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA020F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA021F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA022F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA023F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA024F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA025F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA026A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005448"
+    ],
+    "detectedBarcodes": [
+      "DX9850005448"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA026B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA026C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA026D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA026E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA026F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA027F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA028A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000623"
+    ],
+    "detectedBarcodes": [
+      "DX9850000623"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA028B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA028C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA028D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA028E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA028F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA029A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000622"
+    ],
+    "detectedBarcodes": [
+      "DX9850000622"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA029B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA029C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA029D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA029E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA029F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA030F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA031A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000510"
+    ],
+    "detectedBarcodes": [
+      "DX9850000510"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA031B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA031C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA031D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA031E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA031F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA032F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA033A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9811261966"
+    ],
+    "detectedBarcodes": [
+      "DX9811261966"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA033B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA033C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA033D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA033E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA033F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA034F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA035F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA036F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA037A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000624"
+    ],
+    "detectedBarcodes": [
+      "DX9850000624"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZA037B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA037C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA037D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA037E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZA037F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZB001A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850005442"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB001B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB001C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB001D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB001E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB001F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB002F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB003F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB004F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850000191"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB005F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB006F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850000526"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB007F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB008F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB009F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850005443"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB010F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850002588"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB011F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB012F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB013F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB014F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB015F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB016F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB017F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850004351"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB018F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9860000499"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB019F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB020F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB021F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850004350"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB022F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB023F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB024F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB025F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB026F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB027F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB028F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB029F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB030F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB031F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850002828"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB032F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB033F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB034F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX9850002827"
+    ],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB035F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB036F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037A",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037B",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037C",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037D",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037E",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZB037F",
+    "scanned": false,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Not scanned"
+  },
+  {
+    "name": "ZC001A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9810081452"
+    ],
+    "detectedBarcodes": [
+      "DX9810081452"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC001B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [
+      "DX985900052481"
+    ],
+    "status": "Occupied by an item, but should have been empty"
+  },
+  {
+    "name": "ZC001C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [
+      "DX985900052518"
+    ],
+    "status": "Occupied by an item, but should have been empty"
+  },
+  {
+    "name": "ZC001D",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [
+      "DX985900052555"
+    ],
+    "status": "Occupied by an item, but should have been empty"
+  },
+  {
+    "name": "ZC001E",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [
+      "DX985900052592"
+    ],
+    "status": "Occupied by an item, but should have been empty"
+  },
+  {
+    "name": "ZC001F",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [
+      "DX985900052629"
+    ],
+    "status": "Occupied by an item, but should have been empty"
+  },
+  {
+    "name": "ZC002A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX981026177"
+    ],
+    "detectedBarcodes": [],
+    "status": "Empty, but it should have been occupied"
+  },
+  {
+    "name": "ZC002B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC002C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC002D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC002E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC002F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC003A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9811265597"
+    ],
+    "detectedBarcodes": [
+      "DX9811265597"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC003B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC003C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC003D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC003E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC003F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC004A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX981026231"
+    ],
+    "detectedBarcodes": [],
+    "status": "Empty, but it should have been occupied"
+  },
+  {
+    "name": "ZC004B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC004C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC004D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC004E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC004F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC005F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC006F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC007A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003888"
+    ],
+    "detectedBarcodes": [
+      "DX9850003888"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC007B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC007C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC007D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC007E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC007F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC008F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC009F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC010F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC011F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC012F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC013F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC014F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC015F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC016A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003562"
+    ],
+    "detectedBarcodes": [
+      "DX9850003562"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC016B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC016C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC016D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC016E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC016F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC017A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003561"
+    ],
+    "detectedBarcodes": [
+      "DX9850003561"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC017B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC017C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC017D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC017E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC017F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC018A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003560"
+    ],
+    "detectedBarcodes": [
+      "DX9850003560"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC018B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC018C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC018D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC018E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC018F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC019F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC020A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004310"
+    ],
+    "detectedBarcodes": [
+      "DX9850004310"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC020B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC020C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC020D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC020E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC020F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC021A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000030"
+    ],
+    "detectedBarcodes": [
+      "DX9850000030"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC021B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC021C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC021D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC021E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC021F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC022F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC023A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003552"
+    ],
+    "detectedBarcodes": [
+      "DX9850003552"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC023B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC023C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC023D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC023E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC023F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC024A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004309"
+    ],
+    "detectedBarcodes": [
+      "DX9850004309"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC024B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC024C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC024D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC024E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC024F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC025A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004731"
+    ],
+    "detectedBarcodes": [
+      "DX9850004731"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC025B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC025C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC025D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC025E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC025F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC026A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9806152112"
+    ],
+    "detectedBarcodes": [
+      "DX9806152112"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC026B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC026C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC026D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC026E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC026F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC027F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC028F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC029F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC030F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC031F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC032F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC033A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000522"
+    ],
+    "detectedBarcodes": [
+      "DX9850000522"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC033B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC033C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC033D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC033E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC033F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC034F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC035A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000636"
+    ],
+    "detectedBarcodes": [
+      "DX9850000636"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC035B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC035C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC035D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC035E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC035F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC036A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000520"
+    ],
+    "detectedBarcodes": [
+      "DX9850000520"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZC036B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC036C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC036D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC036E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC036F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZC037F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD001A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX980907826"
+    ],
+    "detectedBarcodes": [
+      "DX980907826"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD001B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004285"
+    ],
+    "detectedBarcodes": [
+      "DX9850004285"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD001C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD001D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD001E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD001F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD002A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD002B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004286"
+    ],
+    "detectedBarcodes": [
+      "DX9850004286"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD002C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD002D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD002E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD002F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD003A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX980907827"
+    ],
+    "detectedBarcodes": [
+      "DX980907827"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD003B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004287"
+    ],
+    "detectedBarcodes": [
+      "DX9850004287"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD003C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD003D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD003E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD003F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD004A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD004B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004288"
+    ],
+    "detectedBarcodes": [
+      "DX9850004288"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD004C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD004D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD004E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD004F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD005A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004340"
+    ],
+    "detectedBarcodes": [
+      "DX9850004340"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD005B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004289"
+    ],
+    "detectedBarcodes": [
+      "DX9850004289"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD005C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD005D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD005E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD005F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD006A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX980907829"
+    ],
+    "detectedBarcodes": [
+      "DX980907829"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD006B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004290"
+    ],
+    "detectedBarcodes": [
+      "DX9850004290"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD006C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD006D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD006E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD006F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD007A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX980907828"
+    ],
+    "detectedBarcodes": [
+      "DX980907828"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD007B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004291"
+    ],
+    "detectedBarcodes": [
+      "DX9850004291"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD007C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD007D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD007E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD007F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD008A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX981026218"
+    ],
+    "detectedBarcodes": [],
+    "status": "Empty, but it should have been occupied"
+  },
+  {
+    "name": "ZD008B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD008C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD008D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD008E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD008F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD009A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX981026233"
+    ],
+    "detectedBarcodes": [
+      "DX981026233"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD009B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD009C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD009D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD009E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD009F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD010A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX981026232"
+    ],
+    "detectedBarcodes": [],
+    "status": "Empty, but it should have been occupied"
+  },
+  {
+    "name": "ZD010B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004294"
+    ],
+    "detectedBarcodes": [
+      "DX9850004294"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD010C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD010D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD010E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD010F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD011A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004732"
+    ],
+    "detectedBarcodes": [
+      "DX9850004732"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD011B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004295"
+    ],
+    "detectedBarcodes": [
+      "DX9850004295"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD011C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD011D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD011E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD011F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD012A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004330"
+    ],
+    "detectedBarcodes": [
+      "DX9850004330"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD012B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004297"
+    ],
+    "detectedBarcodes": [
+      "DX9850004297"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD012C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD012D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD012E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD012F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD013A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD013B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004298"
+    ],
+    "detectedBarcodes": [
+      "DX9850004298"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD013C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD013D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD013E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD013F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD014A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850002591"
+    ],
+    "detectedBarcodes": [
+      "DX9850002591"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD014B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004299"
+    ],
+    "detectedBarcodes": [
+      "DX9850004299"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD014C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD014D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD014E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD014F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD015F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD016F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD017F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD018F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD019A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004293"
+    ],
+    "detectedBarcodes": [
+      "DX9850004293"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD019B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD019C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD019D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD019E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD019F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD020A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850001304"
+    ],
+    "detectedBarcodes": [
+      "DX9850001304"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD020B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD020C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD020D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD020E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD020F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD021A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9810081330"
+    ],
+    "detectedBarcodes": [
+      "DX9810081330"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD021B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD021C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD021D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD021E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD021F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD022A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000197"
+    ],
+    "detectedBarcodes": [
+      "DX9850000197"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD022B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD022C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD022D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD022E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD022F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD023A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000196"
+    ],
+    "detectedBarcodes": [
+      "DX9850000196"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD023B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD023C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD023D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD023E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD023F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD024A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000194"
+    ],
+    "detectedBarcodes": [
+      "DX9850000194"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD024B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD024C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD024D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD024E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD024F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD025A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850001305"
+    ],
+    "detectedBarcodes": [
+      "DX9850001305"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD025B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD025C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD025D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD025E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD025F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD026F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD027F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD028F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD029A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX981026161"
+    ],
+    "detectedBarcodes": [
+      "DX981026161"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD029B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD029C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD029D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD029E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD029F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD030A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [
+      "DX981026212"
+    ],
+    "detectedBarcodes": [],
+    "status": "Empty, but it should have been occupied"
+  },
+  {
+    "name": "ZD030B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD030C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD030D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD030E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD030F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD031A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000516"
+    ],
+    "detectedBarcodes": [
+      "DX9850000516"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD031B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD031C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD031D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD031E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD031F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD032A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000517"
+    ],
+    "detectedBarcodes": [
+      "DX9850000517"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD032B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD032C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD032D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD032E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD032F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD033A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9811151380"
+    ],
+    "detectedBarcodes": [
+      "DX9811151380"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD033B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD033C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD033D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD033E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD033F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD034F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD035A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000518"
+    ],
+    "detectedBarcodes": [
+      "DX9850000518"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD035B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD035C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD035D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD035E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD035F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD036A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850000519"
+    ],
+    "detectedBarcodes": [
+      "DX9850000519"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZD036B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD036C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD036D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD036E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD036F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037D",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037E",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZD037F",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE001A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE001B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE001C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003426"
+    ],
+    "detectedBarcodes": [
+      "DX9850003426"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE002A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE002B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003427"
+    ],
+    "detectedBarcodes": [
+      "DX9850003427"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE002C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE003A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE003B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003437"
+    ],
+    "detectedBarcodes": [
+      "DX9850003437"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE003C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE004A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE004B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003406"
+    ],
+    "detectedBarcodes": [
+      "DX9850003406"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE004C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE005A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE005B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003418"
+    ],
+    "detectedBarcodes": [
+      "DX9850003418"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE005C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE006A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE006B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE006C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE007A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE007B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE007C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE008A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE008B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005065"
+    ],
+    "detectedBarcodes": [
+      "DX9850005065"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE008C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005080"
+    ],
+    "detectedBarcodes": [
+      "DX9850005080"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE009A",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Occupied, but no barcode could be identified"
+  },
+  {
+    "name": "ZE009B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE009C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE010A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE010B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005066"
+    ],
+    "detectedBarcodes": [
+      "DX9850005066"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE010C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005075"
+    ],
+    "detectedBarcodes": [
+      "DX9850005075"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE011A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE011B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE011C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE012A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE012B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005067"
+    ],
+    "detectedBarcodes": [
+      "DX9850005067"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE012C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005076"
+    ],
+    "detectedBarcodes": [
+      "DX9850005076"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE013A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE013B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE013C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE014A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE014B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005077"
+    ],
+    "detectedBarcodes": [
+      "DX9850005077"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE014C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005068"
+    ],
+    "detectedBarcodes": [
+      "DX9850005068"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE015A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE015B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE015C",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE016A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE016B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005070"
+    ],
+    "detectedBarcodes": [
+      "DX9850005070"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE016C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005069"
+    ],
+    "detectedBarcodes": [
+      "DX9850005069"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE017A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE017B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005078"
+    ],
+    "detectedBarcodes": [
+      "DX9850005078"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE017C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005071"
+    ],
+    "detectedBarcodes": [
+      "DX9850005071"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE018A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE018B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005072"
+    ],
+    "detectedBarcodes": [
+      "DX9850005072"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE018C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005073"
+    ],
+    "detectedBarcodes": [
+      "DX9850005073"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE019A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE019B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005083"
+    ],
+    "detectedBarcodes": [
+      "DX9850005083"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE019C",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850005074"
+    ],
+    "detectedBarcodes": [
+      "DX9850005074"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE020A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE020B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE021A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE021B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003429"
+    ],
+    "detectedBarcodes": [
+      "DX9850003429"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE022A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE022B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003421"
+    ],
+    "detectedBarcodes": [
+      "DX9850003421"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE023A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE023B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003425"
+    ],
+    "detectedBarcodes": [
+      "DX9850003425"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE024A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE024B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003413"
+    ],
+    "detectedBarcodes": [
+      "DX9850003413"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE025A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE025B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE026A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE026B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003438"
+    ],
+    "detectedBarcodes": [
+      "DX9850003438"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE027A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE027B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003394"
+    ],
+    "detectedBarcodes": [
+      "DX9850003394"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE028A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE028B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003424"
+    ],
+    "detectedBarcodes": [
+      "DX9850003424"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE029A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE029B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003416"
+    ],
+    "detectedBarcodes": [
+      "DX9850003416"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE030A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE030B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003423"
+    ],
+    "detectedBarcodes": [
+      "DX9850003423"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE031A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE031B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003393"
+    ],
+    "detectedBarcodes": [
+      "DX9850003393"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE032A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE032B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003395"
+    ],
+    "detectedBarcodes": [
+      "DX9850003395"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE033A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE033B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003537"
+    ],
+    "detectedBarcodes": [
+      "DX9850003537"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE034A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE034B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003538"
+    ],
+    "detectedBarcodes": [
+      "DX9850003538"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE035A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE035B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850003539"
+    ],
+    "detectedBarcodes": [
+      "DX9850003539"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE036A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE036B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE037A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE037B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE038A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE038B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE039A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE039B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE040A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE040B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE041A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE041B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE042A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE042B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE043A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE043B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850001184"
+    ],
+    "detectedBarcodes": [
+      "DX9850001184"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE044A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE044B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850004965"
+    ],
+    "detectedBarcodes": [
+      "DX9850004965"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE045A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE045B",
+    "scanned": true,
+    "occupied": true,
+    "expectedBarcodes": [
+      "DX9850001185"
+    ],
+    "detectedBarcodes": [
+      "DX9850001185"
+    ],
+    "status": "Occupied by the expected items"
+  },
+  {
+    "name": "ZE046A",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  },
+  {
+    "name": "ZE046B",
+    "scanned": true,
+    "occupied": false,
+    "expectedBarcodes": [],
+    "detectedBarcodes": [],
+    "status": "Empty, as expected"
+  }
+]
