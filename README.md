@@ -26,6 +26,11 @@ The backend is written in Go with the Echo router framework. I opted for filesto
 
 You can view the api with your own swagger renderer or at this link: [https://petstore.swagger.io/?url=https://raw.githubusercontent.com/GKStretton/dexory-app/main/openapi.yml](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/GKStretton/dexory-app/main/openapi.yml)
 
+There are two unit tests for the critical functionalities in server/:
+
+- TestStringSlicesEqual
+- TestGenerateComparison
+
 ## Deployment notes
 
 The app consists of two containers, with docker-compose coordinating. This makes it easy to deploy in future. Note, cors has been enabled for testing purposes so the frontend can talk to the backend on different port (different origin). For an actually deployment, both would be behind a reverse proxy so the frontend and api have the same origin.
